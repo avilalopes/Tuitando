@@ -1,0 +1,16 @@
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.csprojAssemblyReference.cache
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.AssemblyInfoInputs.cache
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.AssemblyInfo.cs
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.csproj.CoreCompileInputs.cache
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.exe
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.deps.json
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.runtimeconfig.json
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.runtimeconfig.dev.json
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.dll
+D:\git\Tuitando\bin\Debug\net5.0\ref\Tuitando.dll
+D:\git\Tuitando\bin\Debug\net5.0\Tuitando.pdb
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.dll
+D:\git\Tuitando\obj\Debug\net5.0\ref\Tuitando.dll
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.pdb
+D:\git\Tuitando\obj\Debug\net5.0\Tuitando.genruntimeconfig.cache
